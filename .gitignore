@@ -1,0 +1,10 @@
+build
+biotac_single_contact_response/**
+.vscode
+smac3_output/**
+checkpoints/**
+results_cv/**
+flops_profiler/**
+NetworkB_loss_csv/**
+paper/**
+figures_type3/**
