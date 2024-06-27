@@ -1,7 +1,7 @@
 # Optimizing BioTac Simulation for Realistic Tactile Perception
 
 
-This repository contains the code and the appendix for the accepted paper [Optimizing BioTac Simulation for Realistic Tactile Perception](https://arxiv.org/abs/2404.10425) by Wadhah Zai El Amri and Nicolás Navarro-Guerrero.
+This repository contains the code and the appendix for the accepted paper [Optimizing BioTac Simulation for Realistic Tactile Perception](https://arxiv.org/abs/2404.10425) by [Wadhah Zai El Amri](https://wzaielamri.github.io) and [Nicolás Navarro-Guerrero](https://nicolas-navarro-guerrero.github.io).
 
 
 # Abstract
